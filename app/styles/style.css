@@ -1,0 +1,22 @@
+body{
+	background-color: #E6ECF0 !important;
+	margin-top: 15px !important;
+	font-family: "Segoe UI",Arial,sans-serif !important;
+}
+.tweet-panel{
+	margin: 0 10px -1px 10px !important;
+}
+.panel{
+	border-radius:0 !important;
+}
+.table>tbody>tr>td{
+	border:none !important;
+}
+.close{
+	position:absolute;
+  	top:0;
+  	right:5px;
+}
+.panel-body{
+	position: relative;
+}
